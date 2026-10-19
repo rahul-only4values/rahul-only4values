@@ -60,7 +60,7 @@ Most of it is private, so here is what each one is rather than a link.
 | **ledger** | An append-only event store and dashboard. Every number is tagged measured, derived or unverified, and agent work is never counted as mine. |
 | **byrahul.com** | A studio site I built in six languages. |
 
-## Where the work has been
+## Timeline
 
 <p align="center"><img src="assets/timeline.svg" alt="Career timeline 2017 to 2026" width="100%"></p>
 
